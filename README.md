@@ -4,3 +4,5 @@ This console application is written in C++ as a homework for Introduction To Pro
 
 There are three txt files in the project that can be used as an input for the app, all you need to do is to change the name of the 
 input file from the main function of the app. Also you can add your input file that has to have the same form.
+
+You can look at the file 'Odev_Intro to prog_2017' to understand how does the app work.
