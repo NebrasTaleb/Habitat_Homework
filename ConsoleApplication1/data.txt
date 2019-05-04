@@ -1,0 +1,12 @@
+bacteria:
+A B C
+rules:
+A -> B
+B -> C
+C -> A
+size:
+4 x 4
+start:
+A 0 0
+B 3 3
+C 0 3

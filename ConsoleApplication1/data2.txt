@@ -1,0 +1,12 @@
+bacteria:
+N E B
+rules:
+N -> A
+E -> L
+B -> L
+size:
+5 x 5
+start:
+N 2 3
+E 4 0
+B 3 4
